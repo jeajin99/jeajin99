@@ -1,6 +1,6 @@
 <div align="center">
   <h2>👋 Hello, I'm Jaejin</h2>
-  <p><i>Por probar, nada se pierde.</i></p>
+  <h3><i>Por probar, nada se pierde.</i></h3>
   <p><i>시도 해본다고 잃을 건 없다.</i></p>
   <br>
 </div>
