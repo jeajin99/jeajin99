@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="center">🚀 Research Interests</h3>
+<h3>🚀 Research Interests</h3>
 <p >
   <img src="https://img.shields.io/badge/Computer_Vision-4285F4?style=for-the-badge&logo=google-photos&logoColor=white" alt="Computer Vision"/>
   <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning"/>
