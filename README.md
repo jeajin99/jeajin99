@@ -11,6 +11,7 @@
 <p >
   <img src="https://img.shields.io/badge/Computer_Vision-4285F4?style=for-the-badge&logo=google-photos&logoColor=white" alt="Computer Vision"/>
   <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning"/>
+  <br>
   <img src="https://img.shields.io/badge/Object_Detection-FF4136?style=for-the-badge&logo=google-nearby&logoColor=white" alt="Object Detection"/>
   <img src="https://img.shields.io/badge/Autonomous_Driving-32CD32?style=for-the-badge&logo=tesla&logoColor=white" alt="Autonomous Driving"/>
 </p>
