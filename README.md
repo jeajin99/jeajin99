@@ -5,7 +5,7 @@
   <br>
 </div>
 
----
+<br>
 
 <h3>🚀 Research Interests</h3>
 <p >
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Autonomous_Driving-32CD32?style=for-the-badge&logo=tesla&logoColor=white" alt="Autonomous Driving"/>
 </p>
 
-<br><br><br>
+<br>
 
 <h3>📚 Study</h3>
 <b>🖥️ Programming Languages</b><br>
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </p>
-<br><br>
+<br>
 <b>👓 Skills</b><br>
 <p >
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
@@ -38,8 +38,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
 </p>
 
----
-<br><br><br>
+<br><br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=jeajin99&show_icons=true&theme=radical" alt="Jaejin's GitHub stats"/>
 </div>
