@@ -8,18 +8,18 @@
 ---
 
 <h3 align="center">🚀 Research Interests</h3>
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/Computer_Vision-4285F4?style=for-the-badge&logo=google-photos&logoColor=white" alt="Computer Vision"/>
   <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning"/>
   <img src="https://img.shields.io/badge/Object_Detection-FF4136?style=for-the-badge&logo=google-nearby&logoColor=white" alt="Object Detection"/>
   <img src="https://img.shields.io/badge/Autonomous_Driving-32CD32?style=for-the-badge&logo=tesla&logoColor=white" alt="Autonomous Driving"/>
 </p>
 
----
 
-<h3 align="center">📚 Study</h3>
+
+<h3>📚 Study</h3>
 <b>🖥️ Programming Languages</b><br>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -29,7 +29,7 @@
 </p>
 
 <b>👓 Skills</b><br>
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
@@ -40,6 +40,6 @@
 
 ---
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=jeajin99&show_icons=true&theme=radical" alt="Jaejin's GitHub stats"/>
 </div>
