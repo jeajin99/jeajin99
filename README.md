@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Autonomous_Driving-32CD32?style=for-the-badge&logo=tesla&logoColor=white" alt="Autonomous Driving"/>
 </p>
 
-<br>
 
 <h3>📚 Study</h3>
 <b>🖥️ Programming Languages</b><br>
