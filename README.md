@@ -19,6 +19,7 @@
 
 
 <h3>📚 Study</h3>
+
 <b>🖥️ Programming Languages</b><br>
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
@@ -28,6 +29,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </p>
+
 
 <b>👓 Skills</b><br>
 <p >
